@@ -28,7 +28,7 @@ Echoes of the Cosmos is an interactive, educational web platform designed to mak
 ---
 
 ### 🖥️ Step 2: Start a Local Server
-> **Opening the project by double-clicking `index.html` will break key features like:**
+> **Dont open it with index.html. Opening the project by double-clicking `index.html` will break key features like:**
 > - ❌ 3D planets and their textures won't load
 > - ❌ Videos, backgrounds, or animations may not play
 >
