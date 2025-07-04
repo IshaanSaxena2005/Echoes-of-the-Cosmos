@@ -1568,10 +1568,6 @@ function getVoicePanel() {
             <span class="description">Opens the parallax journey</span>
           </div>
           <div class="command-item">
-            <span class="command">"Open Mission"</span>
-            <span class="description">Opens the Mission Simulator</span>
-          </div>
-          <div class="command-item">
             <span class="command">"Start Quiz"</span>
             <span class="description">Opens the Cosmic Quiz</span>
           </div>
@@ -5362,6 +5358,8 @@ function initializeControls() {
     if (orbitLabel && orbitLabel.tagName === 'LABEL') {
       orbitLabel.textContent = 'Orbit Speed: 1.0x';
     }
+    // Attach event listener
+    orbitSpeedSlider.addEventListener('input', updateOrbitSpeed);
   }
   
   // Set default camera distance
@@ -5372,6 +5370,8 @@ function initializeControls() {
     if (cameraLabel && cameraLabel.tagName === 'LABEL') {
       cameraLabel.textContent = 'Camera Distance: 150 units';
     }
+    // Attach event listener
+    cameraDistanceSlider.addEventListener('input', updateCameraDistance);
   }
 }
 
