@@ -15,7 +15,7 @@ https://ishaansaxena2005.github.io/Echoes-of-the-Cosmos/
 
 ## 📸 Screenshots
 
-### Homepage
+### Historical Events
 ![Historical Events](historical_events.png)
 
 ### 3D Solar System
