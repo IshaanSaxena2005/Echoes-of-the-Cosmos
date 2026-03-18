@@ -1,21 +1,69 @@
 # Echoes of the Cosmos 🌌
 
-## 🚀 Project Overview
-Echoes of the Cosmos is an interactive, educational web platform designed to make space exploration fun and accessible for everyone. It combines real scientific data, beautiful visuals, and AI-powered features to create an immersive cosmic experience.
+![Echoes of the Cosmos](Screenshots/Homepage.jpg)
 
-## ✨ Key Features
-- 🛰️ **Cosmic Control Panel** – Sidebar navigation to explore different space topics and tools.
-- 🌌 **3D Solar System** – Realistic, interactive 3D model of the solar system with detailed planet info, textures, and orbits.
-- 📅 **Historical Events & Space Facts** – Learn about important space missions, scientific facts, and cosmic history.
-- 🌠 **Aurora & Space Videos** – Stunning aurora and planetary videos/images for a visually rich experience.
-- 🤖 **AI Chatbot (Nova)** – Ask any space-related question and get instant, AI-powered answers.
-- 📡 **Satellite & Constellation Data** – Explore satellite launches and constellation maps.
-- 🎙️ **Voice Commands & Speech Synthesis** – Control the site and get information using your voice.
-- 🌞 **Sun & Moon Data** – Get real-time scientific and educational information about the Sun and Moon.
-- 🧠 **Cosmic Quiz** – Test your knowledge with a fun, space-themed quiz.
-- 📰 **Space News Ticker** – Stay updated with the latest news in space exploration.
-- 📚 **Educational Content** – All data is sourced from public APIs (NASA, Launch Library, etc.) and curated for learning.
-- 🎨 **Modern, Cosmic Design** – Beautiful, animated UI with cosmic themes, emojis, and smooth navigation.
+Echoes of the Cosmos is an interactive web platform designed to make space exploration engaging and educational.  
+It combines **3D visualization, scientific APIs, voice interaction, and AI assistance** to create an immersive cosmic learning experience.
+
+---
+
+## 🚀 Live Demo
+
+https://ishaansaxena2005.github.io/Echoes-of-the-Cosmos/
+
+---
+
+## 📸 Screenshots
+
+### Homepage
+![Historical Events](historical_events.png)
+
+### 3D Solar System
+![3D Solar System](Screenshots/3D-space-view.jpg)
+
+### AI Chatbot – Nova
+![AI Chatbot](Screenshots/Chatbot.jpg)
+
+---
+
+## ✨ Features
+
+- 🌌 **Interactive 3D Solar System** with realistic planet visualization
+- 📅 **Historical Space Events** and cosmic facts
+- 📡 **Satellite & Constellation Data**
+- 🌠 **Aurora & Space Media Viewer**
+- ☀ **Sun & Moon Scientific Data**
+- 🎙 **Voice Commands & Speech Synthesis**
+- 🤖 **AI Chatbot – Nova** for answering space questions
+- 🧠 **Cosmic Quiz** to test knowledge
+- 📰 **Space News Ticker**
+- 🎨 **Animated Cosmic UI with modern design**
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Three.js** (3D Solar System)
+- **Web Speech API** (Voice commands & speech synthesis)
+- **Cohere API** (AI chatbot)
+- **NASA APIs**
+- **Launch Library API**
+
+---
+
+## 🧠 Skills Demonstrated
+
+- 3D visualization with Three.js
+- API integration with external data sources
+- Voice interaction using Web Speech API
+- Frontend application architecture
+- Interactive UI/UX design
+- Real-time data visualization
+
+---
 
 ## 🛠️ How to Run Locally
 
@@ -72,20 +120,6 @@ Now your site will work with:
 ## 👨‍🚀 Creators
 - 🛠️ **Ishaan Saxena** – Core Developer | Feature Integrator | Logic Builder | UI Specialist
 - 🎨 **Harpreet Singh** – Creative Director | Concept Architect | Prompt Engineer
-
-## 🖼️ Screenshots
-
-1. **Home Page View**  
-A glimpse of the beautifully designed cosmic homepage.  
-![Homepage](Screenshots/Homepage.jpg)
-
-2. **3D Solar System View**  
-Explore interactive planets, their textures, and orbits in real-time.  
-![3D Solar System](Screenshots/3D-space-view.jpg)
-
-3. **AI Chatbot – Nova**  
-Nova, your intelligent space assistant, answers your space-related queries using voice/text.  
-![AI Chatbot – Nova](Screenshots/Chatbot.jpg)
 
 ## 🏆 Submission Note
 This project was built for the AstralWeb SRM Innovate 2025 competition. It aims to blend innovation, education, and user experience in a fun, futuristic way.
