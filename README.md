@@ -9,7 +9,7 @@ It combines **3D visualization, scientific APIs, AI assistance and voice interac
 
 ## 🚀 Live Demo
 
-https://ishaansaxena2005.github.io/Echoes-of-the-Cosmos/
+https://echoes-of-the-cosmos-1.onrender.com/
 
 ---
 
