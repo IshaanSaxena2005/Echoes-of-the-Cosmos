@@ -21,7 +21,7 @@ Echoes of the Cosmos is an interactive, educational web platform designed to mak
 
 ### 1. Download the Project
 - Go to the GitHub repository:
-  👉 https://github.com/IshaanSaxena2005/Echoes-of-the-Cosmos
+👉 https://github.com/IshaanSaxena2005/Echoes-of-the-Cosmos
 - Click the green "Code" button → choose "Download ZIP".
 - Extract the ZIP file to a folder on your computer.
 
