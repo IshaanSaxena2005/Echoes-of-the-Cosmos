@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const OPENAI_API_KEY = 'sk-proj-2eQfpBSF4yZcTg1bCIV6N1XUoVEfE0mVnNtPW4LtS4C4Q1UROLbnt0ShwsM7220pvIRqNnEilrT3BlbkFJspm1gSKKbZjbzc6RDxFt1Ptmg46qafVNO1qRNfC-iDiHbdkEGCr3d6S4m9bWKFbep75oc4qowAdo'; // <-- Your real key here
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 
 app.post('/api/chat', async (req, res) => {
   const { messages } = req.body;
